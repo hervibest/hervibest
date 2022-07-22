@@ -11,4 +11,5 @@
 
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hervibest &theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hervibest)](https://github.com/anuraghazra/github-readme-stats)
+
