@@ -8,5 +8,7 @@
 👀 I'm a webdeveloper and MERN Enthusiasts
 
 📫 instagram : instagram.com/hervibest
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hervibest &theme=radical)
+
 -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hervibest &theme=radical)
