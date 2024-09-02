@@ -5,7 +5,7 @@
 
 👋 Hi, I’m Hervi Nur Rahmandien
 
-👀 I'm a webdeveloper and MERN Enthusiasts
+👀 I'm a webdeveloper and NLP Enthusiasts
 
 📫 instagram : instagram.com/hervibest
 
